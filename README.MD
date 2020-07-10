@@ -8,9 +8,9 @@
 
 ## Layout
 
-(/.github/layout.png)
+![Bull](/.github/layout.png)
 <br/>
-(/.github/mail.png)
+![MailTrap](/.github/mail.png)
 
 ## 🚀 Tecnologias
 
